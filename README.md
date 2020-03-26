@@ -1,4 +1,4 @@
-# _Address BOok_
+# _Address Book_
 
 #### _Epicodus Project focusing on jQuery forms to create an Address Book March 25, 2020_
 
